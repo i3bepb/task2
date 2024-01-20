@@ -18,7 +18,7 @@ cp .env.example .env
 
 Результат можно посмотреть открыв в браузере http://localhost/
 
-![Внизу лог запросов](https://raw.githubusercontent.com/i3bepb/task2/pic/screenshot1.png)
+![Внизу лог запросов](https://raw.githubusercontent.com/i3bepb/task2/main/screenshot1.png)
 
 ### Задание
 
